@@ -6,9 +6,9 @@ MVm~&SQ6u-	Basic (and reversed card)	I have worked	ich habe gearbeitet
 rkXED)@e1n	Basic (and reversed card)	you (singular) have breathed	du hast geatmet
 tLJqw)o;4W	Basic (and reversed card)	he has formed	er hat gebildet
 G38kVr/wL;	Basic (and reversed card)	we have needed	wir haben gebraucht
-rL,ofdpO:?	Basic (and reversed card)	you (plural) have followed	ihr habt gefolgt
+rL,ofdpO:?	Basic (and reversed card)	you (plural) have followed	ihr seid gefolgt
 rt-J}@QX&0	Basic (and reversed card)	they have asked	sie haben gefragt
-z0n/botAhr	Basic (and reversed card)	I have felt	ich habe  gefühlt
+z0n/botAhr	Basic (and reversed card)	I have felt	ich habe gefühlt
 q>3??.Va!}	Basic (and reversed card)	you (singular) have believed	du hast geatmet
 g6X.wjF!c_	Basic (and reversed card)	she has interest	sie hat interessiert
 st^70hcoTx	Basic (and reversed card)	we have bought	wir haben gekauft
@@ -36,11 +36,11 @@ oQ%>.:t3t>	Basic (and reversed card)	they have bound	sie haben gebunden
 PPf1p/0eym	Basic (and reversed card)	you (singular) have roasted	du hast gebraten
 D;R4^>g,p?	Basic (and reversed card)	she has broken	sie hat gebrochen
 "c#V1+o~3{@"	Basic (and reversed card)	we have eated	wir haben gegessen
-c5@HgUnR`T	Basic (and reversed card)	you (plural) have driven	ihr habt gefahren
-M8d++s@&sa	Basic (and reversed card)	they have fallen	sie haben gefallen
+c5@HgUnR`T	Basic (and reversed card)	you (plural) have driven	ihr seid gefahren
+M8d++s@&sa	Basic (and reversed card)	they have fallen	sie sind gefallen
 CW~+G0g;dr	Basic (and reversed card)	I have caught	ich habe gefangen
 NSTI(%Goab	Basic (and reversed card)	you (singular) have found	du hast gefunden
-n*u4gE{}Ra	Basic (and reversed card)	he has flown	wir haben geflogen
+n*u4gE{}Ra	Basic (and reversed card)	he has flown	wir sind geflogen
 bnIFhU]EU/	Basic (and reversed card)	we have given	wir haben gegeben
 z:mNwWy)>^	Basic (and reversed card)	they (plural) have poured	ihr habt gegossen
 nkfsB2mi;P	Basic (and reversed card)	I have grasped	ich habe gegriffen
@@ -48,34 +48,37 @@ dt0S0/1kzI	Basic (and reversed card)	you (singular) have held	du hast gehalten
 OC&y}<v_Ju	Basic (and reversed card)	she has lifted	sie hat gehoben
 wl]G)!)(7|	Basic (and reversed card)	we have helped	wir haben geholfen
 Ja63;X/$c$	Basic (and reversed card)	it has sounded	es hat geklungen
-"rxXM^N#2$q"	Basic (and reversed card)	they have come	sie haben gekommen
-N>s=I1Cy&E	Basic (and reversed card)	I have run	ich habe gelaufen
+"rxXM^N#2$q"	Basic (and reversed card)	they have come	sie sind gekommen
+N>s=I1Cy&E	Basic (and reversed card)	I have run	ich bin gelaufen
 r(jZ*R73a=	Basic (and reversed card)	you (singular) have read	du hast gelesen
 n~X!!8ZbZO	Basic (and reversed card)	he has lent	er hat geliehen
-d!;)4yv0Nh	Basic (and reversed card)	we have laid	wir haben gelegen
+d!;)4yv0Nh	Basic (and reversed card)	we have laid	wir sind gelegen
 gFGhShLadv	Basic (and reversed card)	you (plural) have taken	ihr habt genommen
-pw}dD]K1iD	Basic (and reversed card)	they have ridden	sie haben geritten
+pw}dD]K1iD	Basic (and reversed card)	they have ridden	sie sind geritten
 jdKutHy>dZ	Basic (and reversed card)	i have smelt	ich habe gerochen
 "i)Rpl2#%/,"	Basic (and reversed card)	she has closed	sie hat geschlossen
 DlQnk[r`eJ	Basic (and reversed card)	we have cut	wir haben geschnitten
 A8Q32o,-5]	Basic (and reversed card)	you (plural) have written	ihr habt geschrieben
-bx/Ivexh3R	Basic (and reversed card)	they have swum	sie haben geschwommen
+bx/Ivexh3R	Basic (and reversed card)	they have swum	sie sind geschwommen
 "ObYt6F#TGQ"	Basic (and reversed card)	I have seen	ich habe gesehen
-mKd{~s_vA[	Basic (and reversed card)	he has been	er hat gewesen
+mKd{~s_vA[	Basic (and reversed card)	he has been	er ist gewesen
 pm*6X@&gmV	Basic (and reversed card)	we have sung	wir haben gesungen
-Q85aqq5Y0c	Basic (and reversed card)	you (plural) have  sunk	ihr habt gesunken
+Q85aqq5Y0c	Basic (and reversed card)	you (plural) have  sunk	ihr seid gesunken
 q%U!(+Hif)	Basic (and reversed card)	they have sat	sie haben gesessen
 h,LLjo>WuI	Basic (and reversed card)	I have spoken	ich have gesprochen
-e:Bb]Tl:9K	Basic (and reversed card)	you (singular) have  jumped	du hast gesprungen
-e%,vV@>Xd+	Basic (and reversed card)	you (plural) have stood	ihr habt gestanden
-nPu$0$<E)l	Basic (and reversed card)	we have climbed	wir haben gestiegen
+e:Bb]Tl:9K	Basic (and reversed card)	you (singular) have  jumped	du bist gesprungen
+e%,vV@>Xd+	Basic (and reversed card)	you (plural) have stood	ihr seid gestanden
+nPu$0$<E)l	Basic (and reversed card)	we have gone up	wir sind gestiegen
 C?Js_p^M@A	Basic (and reversed card)	he has died	er hat gestorben
 rjWJgMp>nt	Basic (and reversed card)	they have argued	sie haben gestritten
 k2Er,WT7VX	Basic (and reversed card)	I have worn	ich habe getragen
 fnSt%IOC(<	Basic (and reversed card)	you (singular) have met	du hast getroffen
 jZ3r8edKL{	Basic (and reversed card)	she has drunk	sie hat getrunken
 CFg?3b&BJ%	Basic (and reversed card)	we have washed	wir haben gewaschen
-"y*smPF^n#r"	Basic (and reversed card)	you (plural) have become	ihr habt geworden
+"y*smPF^n#r"	Basic (and reversed card)	you (plural) have become	ihr seid geworden
 kfIJ@,K;:=	Basic (and reversed card)	they have thrown	sie haben geworfen
 w_x-B8?Z)i	Basic (and reversed card)	I have pulled	ich habe gezogen
 nmH6Jl)sXE	Basic (and reversed card)	you (singular) have  forced	du hast gezwungen
+p:s:EV/P]Y	Basic (and reversed card)	i have woken up	ich bin aufgewacht
+"u3T((#Q@uo"	Basic (and reversed card)	you (singular) have met	du bist begegnet
+xmj~emLxiA	Basic (and reversed card)	we have climbed	wir sind geklettert
